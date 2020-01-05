@@ -2751,14 +2751,15 @@ h6 {
   position: relative;
   display: inline-block;
   margin-bottom: 40px; }
-  .new_games_item:hover .upcoming_title {
+  /* .new_games_item:hover .upcoming_title {
     background: -webkit-linear-gradient(to right, #3fcaff 0%, #a4ffb0 100%);
     background: -moz-linear-gradient(to right, #3fcaff 0%, #a4ffb0 100%);
     background: -o-linear-gradient(to right, #3fcaff 0%, #a4ffb0 100%);
     background: linear-gradient(to right, #3fcaff 0%, #a4ffb0 100%); }
     .new_games_item:hover .upcoming_title a {
-      color: #22195e; }
+      color: #22195e; } */
   .new_games_item .upcoming_title {
+    color: white;
     position: absolute;
     background: rgba(44, 37, 93, 0.8);
     top: 50%;
