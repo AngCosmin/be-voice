@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Allow: /
+
+Sitemap: http://cosmin.me/be-voice/sitemap
